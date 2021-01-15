@@ -5,7 +5,7 @@ from PIL import Image
 
 sufix = "webp"
 new_sufix="png"
-folder_up= "/home/rodrigo/data1/stickers/"
+folder_up= "../"
 old_folder ="webpg"
 new_folder ="png"
 #print(folder_up + old_folder)
